@@ -37,3 +37,10 @@ npm install
 ng serve -o
 
 ```
+
+
+
+
+### Check video
+
+![task_resolution](https://github.com/Rahemanali-24/FlightsAndSearchService/assets/159017790/07d6ecc2-2d11-4838-a041-ff4301dd55e1)
